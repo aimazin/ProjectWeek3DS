@@ -15,7 +15,7 @@ Python latest version Numpy, Pandas, Matplotlib, and Seaborn libraries
 
 My ML capabilities on display
 
+## License
 
-## Licence
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-I authorize any none malicious use of this code
